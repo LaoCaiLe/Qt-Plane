@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/5.mp3</file>
+        <file>images/10.mp3</file>
+        <file>images/background.jpg</file>
+        <file>images/bomb.png</file>
+        <file>images/bullet2.png</file>
+        <file>images/cartridge_power.png</file>
+        <file>images/enemy_1.png</file>
+        <file>images/enemy_2.png</file>
+        <file>images/enemy_3.png</file>
+        <file>images/enemy_4.png</file>
+        <file>images/enemy_5.png</file>
+        <file>images/enemy4.bmp</file>
+        <file>images/enemyPlane2_die.gif</file>
+        <file>images/enemyPlane2_die_0.png</file>
+        <file>images/enemyPlane2_die_1.png</file>
+        <file>images/enemyPlane2_die_2.png</file>
+        <file>images/enemyPlane2_die_3.png</file>
+        <file>images/enemyPlane2_die_4.png</file>
+        <file>images/enemyPlane2_die_5.png</file>
+        <file>images/enemyPlane2_die_6.png</file>
+        <file>images/enemyPlane2_hurt.png</file>
+        <file>images/enemyPlane3_die.gif</file>
+        <file>images/enemyPlane3_die_0.png</file>
+        <file>images/enemyPlane3_die_1.png</file>
+        <file>images/enemyPlane3_die_2.png</file>
+        <file>images/enemyPlane3_die_3.png</file>
+        <file>images/enemyPlane3_die_4.png</file>
+        <file>images/enemyPlane3_hurt.png</file>
+        <file>images/explode.mp3</file>
+        <file>images/f_gun.mp3</file>
+        <file>images/game_music.mp3</file>
+        <file>images/gotEnemy.mp3</file>
+        <file>images/logo.png</file>
+        <file>images/planeBoom_2.png</file>
+        <file>images/planeNormal_2.png</file>
+        <file>images/prop1.png</file>
+        <file>images/prop2.png</file>
+        <file>images/startgame.png</file>
+    </qresource>
+</RCC>
